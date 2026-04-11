@@ -3,6 +3,6 @@ This is my First Git Repository.
 <br>
 developer - Waqar Ahmed
 <br>
-Developer Inspiration Journey
+Developer Inspiration story
 <br>
 My file my Rule
